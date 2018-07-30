@@ -1,0 +1,14 @@
+{
+  "name": "trilliam",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "node-gyp": "^3.7.0",
+    "openzeppelin-solidity": "^1.11.0"
+  },
+  "devDependencies": {
+    "truffle": "^4.1.13",
+    "truffle-hdwallet-provider": "0.0.5",
+    "truffle-ledger-provider": "0.0.3"
+  }
+}
